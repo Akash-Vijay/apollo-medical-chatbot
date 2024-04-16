@@ -3,5 +3,6 @@ sentence-transformers
 chromadb
 langchain
 flask
+pypdf
 
 
