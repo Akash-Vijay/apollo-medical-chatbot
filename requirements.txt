@@ -4,5 +4,6 @@ chromadb
 langchain
 flask
 pypdf
+langchain-chroma
 
 
