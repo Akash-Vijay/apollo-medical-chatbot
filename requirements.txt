@@ -5,5 +5,5 @@ langchain
 flask
 pypdf
 langchain-chroma
-
+-e .
 
